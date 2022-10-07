@@ -21,6 +21,7 @@ main{
   flex-wrap: wrap;
   width: 100%;
   background: rgb(144, 144, 250);
+  height: 100vh;
 }
 
 header {
@@ -43,7 +44,7 @@ section{
 
 
 .card{
-  
+  background: white;
    width: 100%;
    border-radius: 4px;
    display: grid;
