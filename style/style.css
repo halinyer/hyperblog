@@ -22,9 +22,13 @@ main{
   width: 100%;
 }
 
+header {
+    background: rgb(81, 81, 209);
+}
+
 header .logo {
     text-align: center;
-    
+    color: white;
 }
 
 
